@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Russo+One&display=swap');
+
+body {
+    font-family: "Russo One";
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0066FF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    color: white;
+    font-size: 64px;
+    font-weight: 400;
+}
+
+ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin-right: 70px;
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Roboto";
+}
+
+.pustota {
+    height: 100px;
+}
+
+.text1 {
+    background-color: #0066FF;
+    color: white;
+    margin-left: 0px;
+    font-size: 40px;
+    padding-left: 30px;
+}
+
+.text2 {
+    font-size: 24px;
+    margin-left: 50px;
+}
+
+.text3 {
+    background-color: #0066FF;
+    color: white;
+    margin-left: 0px;
+    font-size: 40px;
+    padding-left: 30px;
+}
+
+.text4 {
+    font-size: 24px;
+    margin-left: 50px;
+    font-weight: 900;
+}
+
+footer {
+    background-color: #0066FF;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.copyright {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 400;
+}
+
+h4 {
+    margin-left: 70px;
+    font-size: 32px;
+}
